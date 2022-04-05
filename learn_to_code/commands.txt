@@ -1,0 +1,1 @@
+winpty docker run -it -v "/$(pwd -W):/app" python:3.10.4-alpine shj
